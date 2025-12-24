@@ -92,6 +92,16 @@ Bachelor of Engineering – CSE (Data Science)
 
 ---
 
+### 🔹 Resume Scanner & Job Description Matching System
+**Tech Stack:** Python, Scikit-learn, Streamlit, NLP  
+**Accuracy:** 99.4%
+
+• Developed an AI-based Resume Scanner using Python, Scikit-learn, NLTK, and Streamlit to automatically classify resumes into 25+ job domains.
+• Implemented an NLP preprocessing pipeline including text cleaning, stopword removal, and lemmatization for robust feature extraction.
+• Used TF-IDF vectorization and a Support Vector Classifier (SVC) for accurate resume category prediction.
+• Designed a Resume–Job Description matching module using cosine similarity to calculate relevance scores.
+• Built an interactive Streamlit web application to upload resumes, view predicted categories, and visualize match percentage.
+
 ## 🏆 Achievements
 
 - **AIR 983 – GATE CS 2025** (Score: 722)
@@ -101,15 +111,3 @@ Bachelor of Engineering – CSE (Data Science)
   - Focused on market awareness, scalability, and revenue potential
 
 ---
-
-## 📎 Links
-
-- GitHub: https://github.com/aryagnik  
-- LinkedIn: https://linkedin.com/in/dave-aryan  
-
----
-
-## 📌 Notes
-
-This repository represents my **technical profile and project work**.  
-I value **clarity, correctness, and depth** over buzzwords and surface-level implementations.
