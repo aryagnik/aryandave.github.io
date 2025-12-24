@@ -101,6 +101,8 @@ Bachelor of Engineering – CSE (Data Science)
 • Used TF-IDF vectorization and a Support Vector Classifier (SVC) for accurate resume category prediction.
 • Designed a Resume–Job Description matching module using cosine similarity to calculate relevance scores.
 • Built an interactive Streamlit web application to upload resumes, view predicted categories, and visualize match percentage.
+![image alt](https://github.com/aryagnik/aryandave.github.io/blob/1f7c94f724214091a111f03381b857116fde296d/Screenshot%202025-12-24%20091638.png)
+![image alt](https://github.com/aryagnik/aryandave.github.io/blob/1f7c94f724214091a111f03381b857116fde296d/Screenshot%202025-12-24%20091638.png)
 
 ## 🏆 Achievements
 
