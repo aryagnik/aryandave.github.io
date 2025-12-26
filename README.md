@@ -79,6 +79,9 @@ Bachelor of Engineering – CSE (Data Science)
 - Achieved best performance using a **Stacking Ensemble model**.
 - Deployed an **interactive Streamlit web app** for real-time predictions.
 
+![image_alt](assets/resume0.png)
+  
+
 ---
 
 ### 🔹 Feedback Management System  
@@ -90,6 +93,7 @@ Bachelor of Engineering – CSE (Data Science)
 - Built backend logic using PHP for secure data handling.
 - Integrated MySQL for persistent storage and retrieval of feedback records.
 
+![image_alt](assets/web_pic.png)
 ---
 
 ### 🔹 Resume Scanner & Job Description Matching System
@@ -101,6 +105,7 @@ Bachelor of Engineering – CSE (Data Science)
 - Used TF-IDF vectorization and a Support Vector Classifier (SVC) for accurate resume category prediction.
 - Designed a Resume–Job Description matching module using cosine similarity to calculate relevance scores.
 - Built an interactive Streamlit web application to upload resumes, view predicted categories, and visualize match percentage.
+
 ![image alt](assets/resume1.png)
 ![image alt](assets/resume2.png)
 
