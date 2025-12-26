@@ -98,7 +98,6 @@ Bachelor of Engineering – CSE (Data Science)
 
 ### 🔹 Resume Scanner & Job Description Matching System
 **Tech Stack:** Python, Scikit-learn, Streamlit, NLP  
-**Accuracy:** 99.4%
 
 - Developed an AI-based Resume Scanner using Python, Scikit-learn, NLTK, and Streamlit to automatically classify resumes into 25+ job domains.
 - Implemented an NLP preprocessing pipeline including text cleaning, stopword removal, and lemmatization for robust feature extraction.
